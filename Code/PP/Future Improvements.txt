@@ -1,0 +1,7 @@
+MUltiple Alarms Crash
+Alarms Can't Run With Media Player
+No Exception Handlers except Date and Time
+If the date/time is input as 08 or 09 it gives an error
+No exception handlers for Alarm
+
+‡¡¦©Ž™˜ £¤ —’€Î£¥¨—‘p¸ÂÔ¾ÙÐºÔÕéŽ·Óµâ×ãâÆ±µáåäÜÈÍ¯¿ÞÖÜÕÆÂÎÓéÍÊÍ±âåçÝÔÀƒÂÚÜËÊ¾Ö’ªx›‘…¦’§¥–’ž¤¥Ÿ—À¤¬¥ž‡´ÎÂçÏÊÕ¹ÒÓáÍ˜–ØàÞáÏÀ£¼ÑÅàÈÄÄØÕÖÚÆ±ÂÞÜÚÑÛÀÂÚÜËÊ¾Ö’¨x˜’¨’§¥–’ž¤¥Ÿ—À‚¡¬¥ž‡´ÎÂçÏÊÕ¹ÒÓáÍ™–ØàÞáÏÀ£¼ÑÅàÈÄÄØÕÖÚÆ±ÂÞÜÚÑÛÀ‚ÂÚÜËÊ¾Ö’¨xŸ’‰¡’§¤–’ž¤¥Ÿ—ÀŸ¬¥ž‡¥“ÎµÝÏ×ÕµáÑ©ŽªÐ½ßÞÚâÌÀ”²Ñ¸ÖÈÑÄÔäÔ¢ÆÃµÕáçÓÆ¦ÈÐß•²ÖÏµ¥ž™“„¤«˜’¡¢¦žÆ“‚©¢¥Ž°±¯¿ääØÌÄÄÎŸÔ¶ÌÍÀÎÆÚæÛ§áÛéÓÆÂ¯××áÞÆÇ¹Û×ÔÔÖÓ¯¿×çáÖÏ±ÛÑÅÚÈÏ¾Ôä•²ÖÏµ¦
